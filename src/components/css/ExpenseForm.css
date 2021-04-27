@@ -1,0 +1,29 @@
+.new-expense__controls {
+  display: block;
+  margin-bottom: 1rem;
+  text-align: left;
+}
+
+.new-expense__control label {
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+  display: block;
+}
+
+.new-expense__control input {
+  font: inherit;
+  padding: 0.5rem;
+  border-radius: 6px;
+  border: 0px;
+  width: 100%;
+  max-width: 100%;
+  margin-bottom: 1rem;
+}
+
+.new-expense__control input:focus {
+  outline: 1px solid gray;
+}
+
+.new-expense__actions {
+  text-align: right;
+}
