@@ -1,1 +1,1 @@
-[Expense tracker](https://react-expenses.netlify.app/) written in React
+Expense tracker written in React
